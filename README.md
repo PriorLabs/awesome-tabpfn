@@ -24,3 +24,4 @@ A curated list of applications of the [tabular foundation model TabPFN](https://
 * Predicting wildfire propagation [Paper](https://www.sciencedirect.com/science/article/pii/S157495412400253X)
 * Classifying lunar meteorite minearls [Paper](https://www.sciencedirect.com/science/article/pii/S2095268624001010)
 * Prognosis of distal medium vessel occlusion [Paper](https://www.ajnr.org/content/early/2024/10/28/ajnr.A8547.abstract)
+* Predicting chemical properties [Blog Post](https://jonswain.github.io/ai/cheminformatics/data%20science/machine%20learning/2025/01/22/TabPFN-for-chemical-datasets.html)

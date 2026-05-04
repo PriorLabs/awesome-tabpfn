@@ -162,7 +162,7 @@ A curated list of applications of the tabular foundation model [TabPFN](https://
 | 7 | TabPFN was used as a baseline for comparison in spatiotemporal forecasting of small Earth data, demonstrating value despite being surpassed in accuracy and robustness by the proposed method | [Paper](http://arxiv.org/abs/2510.08920v1) |
 | 8 | TabPFN demonstrated superior predictive performance under sparse sampling conditions, enabling accurate high-resolution mapping of groundwater bicarbonate concentrations and evaluation of scaling risks | [Paper](https://doi.org/10.6084/m9.figshare.31646935.v1) |
 | 9 | TabPFN was used for slope stability assessment, providing superior accuracy and robustness with limited sample sizes and enhancing regional scale evaluation efficiency | [Paper](https://doi.org/10.1016/j.rockmb.2026.100326) |
-| 10 | TabPFN was surpasses other models in solar energy meteorology | [Paper](https://doi.org/10.1016/j.solener.2026.114472) |
+| 10 | TabPFN surpasses other models in solar energy meteorology | [Paper](https://doi.org/10.1016/j.solener.2026.114472) |
 | 11 | TabPFN Regression was used as a predictive model for evaluating trophic level index from multi-source remote sensing data within the modeling framework | [Paper](https://doi.org/10.1038/s41545-025-00525-8) |
 | 12 | TabPFN-based data augmentation improved model robustness under limited data, enabling accurate predictions of electrochemical performance and efficient screening of hard carbon candidates | [Paper](http://arxiv.org/abs/2510.12833v1) |
 | 13 | TabPFN was employed to predict river algal blooms through multi-classification of chlorophyll-a concentrations, aiding water management | [Paper](https://koreascience.kr/article/JAKO202427157640711.page) |

@@ -24,8 +24,8 @@ A curated list of applications of the tabular foundation model [TabPFN](https://
 - [Healthcare and Life Sciences](#healthcare-and-life-sciences) — 103 use cases
 - [Financial Services, Banking, and Insurance](#financial-services-banking-and-insurance) — 9 use cases
 - [Energy and Utilities](#energy-and-utilities) — 27 use cases
-- [Industrial and Manufacturing](#industrial-and-manufacturing) — 43 use cases
-- [Other Industries](#other-industries) — 35 use cases
+- [Industrial and Manufacturing](#industrial-and-manufacturing) — 41 use cases
+- [Other Industries](#other-industries) — 34 use cases
 
 ## Healthcare and Life Sciences
 
@@ -202,13 +202,13 @@ A curated list of applications of the tabular foundation model [TabPFN](https://
 | 15 | TabPFN enabled highly accurate and unbiased prediction of RAC's elastic modulus, improving trustworthiness and interpretability in a challenging heterogeneous materials domain | [Paper](https://doi.org/10.3390/ma18225221) |
 | 16 | TabPFN provided meta-learned prior knowledge that enhanced predictive performance and uncertainty quantification in the PSF-Net model for reliable 5G RF-EMF exposure assessment | [Paper](https://doi.org/10.4271/2025-99-0127) |
 | 17 | TabPFN showed superior predictive performance in predicting the hardgrove grindability index, improving model accuracy | [Paper](https://www.sciencedirect.com/science/article/pii/S0016236126010513) |
-| 18 | TabPFN enables accurate and interpretable prediction of overburden fracturing heights using limited sample data and fracture descriptors | [Paper](https://iopscience.iop.org/article/10.1088/2631-8695/ae586d/meta) |
+| 18 | TabPFN supported multiscale modeling to predict soil salinity in arid farmland, advancing sustainable agricultural management in regions such as Xinjiang | [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5591702) |
 | 19 | TabPFN delivered the best overall performance with the lowest error metrics and highest R² and composite score, demonstrating superior predictive capability for asphalt concrete strength | [Paper](https://doi.org/10.20944/preprints202603.2259.v1) |
 | 20 | TabPFN was applied to efficient multi-objective optimization of non-linear mixture designs, improving strength, reducing costs, and lowering carbon emissions for sustainable mining applications | [Paper](https://www.sciencedirect.com/science/article/pii/S095965262600658X) |
 | 21 | TabPFN was employed for highly accurate and statistically superior predictions of pavement roughness by capturing complex interactions among traffic loads, structural parameters, and climatic factors | [Paper](https://doi.org/10.3390/buildings16071358) |
 | 22 | TabPFN enables accurate prediction of CPB strength with limited data, improving efficiency and supporting theoretical understanding and practical application in mining industry tailings management | [Paper](https://doi.org/10.1016/j.rineng.2025.108269) |
 | 23 | TabPFN's improved spatiotemporal architecture enhances robustness and accuracy in geological condition detection, enabling better multi-step predictions with uncertainty quantification in tunnel construction | [Paper](https://www.sciencedirect.com/science/article/pii/S1474034626003071) |
-| 24 | TabPFN enables interpretable predictions and analysis, enhancing understanding of geotechnical data models | [Paper](https://arxiv.org/pdf/2603.21033) |
+| 24 | TabPFN was integrated into a multimodal fusion framework linking microstructure to friction behavior in martensitic stainless steel, improving wear resistance in materials engineering applications | [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5346149) |
 | 25 | TabPFN was utilized as a core component in a multi-objective optimization framework to design cemented foam backfill optimizing high strength, low cost, and low carbon emissions | [Paper](https://doi.org/10.1016/j.jclepro.2026.148119) |
 | 26 | TabPFN enhances prediction accuracy and reliability with small sample sizes and missing features in geotechnical engineering | [Paper](https://doi.org/10.1007/s00603-026-05420-3) |
 | 27 | TabPFN enabled interpretable and uncertainty-aware parameter inference, improving predictions and revealing geotechnical relationships without model retraining for data-scarce applications | [Paper](http://arxiv.org/abs/2603.21033v1) |
@@ -226,8 +226,6 @@ A curated list of applications of the tabular foundation model [TabPFN](https://
 | 39 | TabPFN was used in cryogenic-assisted abrasive waterjet machining for improving surface integrity in titanium alloys | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S2214993725004531) |
 | 40 | TabPFN supported in-context learning for thermal behavior prediction in nano-phase change materials for battery systems | [Paper](https://www.sciencedirect.com/science/article/pii/S036054422504335X) |
 | 41 | TabPFN was applied to explainable strength evaluation in multicomponent concrete mixtures | [Paper](https://www.mdpi.com/1996-1944/18/19/4456) |
-| 42 | TabPFN was integrated into a multimodal fusion framework linking microstructure to friction behavior in martensitic stainless steel, improving wear resistance in materials engineering applications | [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5346149) |
-| 43 | TabPFN supported multiscale modeling to predict soil salinity in arid farmland, advancing sustainable agricultural management in regions such as Xinjiang | [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5591702) |
 
 ## Other Industries
 
@@ -239,7 +237,7 @@ A curated list of applications of the tabular foundation model [TabPFN](https://
 | 4 | TabPFN enables effective node classification by leveraging engineered tabular features from graph data as a practical and competitive alternative to graph-specific and language-based foundation models | [Paper](http://arxiv.org/abs/2512.08798v1) |
 | 5 | TabPFN was integrated as the surrogate model enabling accurate and efficient prediction with uncertainty estimation, enhancing the performance, scalability, and zero-shot transfer capability of the DB-SAEA framework | [Paper](http://arxiv.org/abs/2511.15551v1) |
 | 6 | TabPFN was used to model the relationship between nuclear structure properties and α-particle preformation factors, improving α-decay half-life predictions and enabling insights into nuclear shell effects and magic numbers | [Paper](http://arxiv.org/abs/2511.14705v1) |
-| 7 | TabPFN enables rich predictive modeling in the martingale posterior framework to improve uncertainty quantification and inference accuracy | [Paper](http://arxiv.org/abs/2510.25154v1) |
+| 7 | TabPFN was used as a benchmark model for predicting avocado alternate bearing from Sentinel-2 and climate features. | [Paper](https://www.preprints.org/manuscript/202510.2413) |
 | 8 | TabPFN served as the foundation for TabMGP, enabling state-of-the-art predictive capabilities with effective epistemic uncertainty quantification and improved posterior inference in tabular data contexts | [Paper](http://arxiv.org/abs/2510.25154v2) |
 | 9 | TabPFN demonstrated superior utility for real-world operational yield forecasting due to faster tuning and reduced feature engineering requirements | [Paper](http://arxiv.org/abs/2506.19046v1) |
 | 10 | TabPFN serves as the base learner in a multi-stage ensemble to model recognition probabilities of rural villages, enabling identification of high-potential but under-observed candidates in geospatial, highly imbalanced datasets | [Paper](https://www.mdpi.com/2073-445X/15/4/535) |
@@ -267,7 +265,6 @@ A curated list of applications of the tabular foundation model [TabPFN](https://
 | 32 | TabPFN supported continual learning for tabular data streams in resource-constrained environments | [Paper](https://arxiv.org/html/2510.04660v1) |
 | 33 | TabPFN contributed to assessing robustness of language models for data fitting under irrelevant variations | [Paper](https://arxiv.org/pdf/2508.19563) |
 | 34 | TabPFN was used in forensic science to advance biogeographical ancestry predictions | [Paper](https://www.sciencedirect.com/science/article/pii/S1872497325000705) |
-| 35 | TabPFN was used as a benchmark model for predicting avocado alternate bearing from Sentinel-2 and climate features. | [Paper](https://www.preprints.org/manuscript/202510.2413) |
 
 ## 🤝 Contributing
 

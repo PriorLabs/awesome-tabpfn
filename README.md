@@ -137,7 +137,7 @@ A curated list of applications of the tabular foundation model [TabPFN](https://
 
 ## Financial Services, Banking, and Insurance
 
-| # | Application | Paper |
+| # | Application | Link |
 |---|-------------|-------|
 | 1 | TabPFN improves low-supervision transaction analytics by doubling zero-shot MCC on churn prediction and enhancing few-shot MCC, enabling better knowledge-grounded reasoning in financial transaction analysis | [Paper](http://arxiv.org/abs/2603.15459) |
 | 2 | TabPFN serves as a strong tabular baseline for financial transaction analytics (e.g., churn prediction) | [Paper](http://arxiv.org/abs/2501.10677v2) |

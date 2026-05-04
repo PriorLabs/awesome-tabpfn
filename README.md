@@ -74,7 +74,7 @@ A curated list of applications of the tabular foundation model [TabPFN](https://
 | 41 | TabPFN improves renal tumor classification accuracy in CT radiomics by effectively handling small, high-dimensional datasets without extensive tuning | [Paper](https://doi.org/10.21037/qims-2025-1132) |
 | 42 | TabPFN demonstrates competitive performance as a count-based model for clinical prediction on structured EHR data compared to transformer-based pipelines | [Paper](http://arxiv.org/abs/2511.00782v1) |
 | 43 | TabPFN improves empathy detection accuracy and cross-subject generalization in human-centered video datasets | [Paper](http://arxiv.org/abs/2504.10808v2) |
-| 44 | TabPFN enables accurate prediction of reaction kinetics, facilitating mechanistic understanding in biochar-catalyzed antibiotic degradation processes | [Paper](https://Paper.springer.com/article/10.1007/s42773-026-00606-y) |
+| 44 | TabPFN enables accurate prediction of reaction kinetics, facilitating mechanistic understanding in biochar-catalyzed antibiotic degradation processes | [Paper](https://link.springer.com/article/10.1007/s42773-026-00606-y) |
 | 45 | TabPFN yields competitive or superior performance for multiple imputation tasks compared to alternative statistical and ML methods | [Paper](https://www.mdpi.com/2571-905X/9/2/38) |
 | 46 | TabPFN improves survival analysis performance by leveraging survival-aware priors, enhancing both prediction accuracy and model transparency | [Repo](https://acv1229.github.io/pdf/TabPFN_Survival.pdf) |
 | 47 | TabPFN improves multimodal skin cancer diagnosis by combining structured lesion features with clinical data for more accurate and interpretable predictions | [Paper](https://www.sciencedirect.com/science/article/pii/S0020025526003609) |

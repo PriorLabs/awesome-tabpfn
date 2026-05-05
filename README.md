@@ -151,7 +151,7 @@ A curated list of applications of the tabular foundation model [TabPFN](https://
 
 ## Energy and Utilities
 
-| # | Application | Paper |
+| # | Application | Link |
 |---|-------------|-------|
 | 1 | TabPFN serves as the top-performing regression model to estimate degradation kinetics from multi-source experimental data | [Paper](https://doi.org/10.1007/s42773-026-00606-y) |
 | 2 | TabPFN was used to improve the accuracy and reliability of modeling industrial carbon emissions data across regions and over time | [Paper](https://doi.org/10.6084/m9.figshare.31851325.v2) |
@@ -183,7 +183,7 @@ A curated list of applications of the tabular foundation model [TabPFN](https://
 
 ## Industrial and Manufacturing
 
-| # | Application | Paper |
+| # | Application | Link |
 |---|-------------|-------|
 | 1 | TabPFN served as a high-fidelity surrogate model for optimizing geopolymer concrete mix design, achieving superior accuracy, generalization, and low-uncertainty predictions compared to other ML approaches | [Paper](https://www.nature.com/articles/s41598-025-29088-x) |
 | 2 | TabPFN enables rapid prediction of structural crack behavior, supporting reliability assessment and failure analysis in ultra-high-performance concrete | [Paper](https://www.nature.com/articles/s41598-025-23610-x) |

@@ -229,7 +229,7 @@ A curated list of applications of the tabular foundation model [TabPFN](https://
 
 ## Other Industries
 
-| # | Application | Paper |
+| # | Application | Link |
 |---|-------------|-------|
 | 1 | TabPFN enables the construction of credal sets for models where it was previously infeasible, broadening uncertainty representation and improving uncertainty estimation | [Paper](http://arxiv.org/abs/2603.08495v1) |
 | 2 | TabPFN enables efficient and valid hypothesis testing for feature relevance in tabular data, allowing accurate statistical inference in nonlinear and correlated settings | [Paper](http://arxiv.org/abs/2603.06609v1) |
